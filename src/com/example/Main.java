@@ -1,4 +1,5 @@
 package com.example;
+
 import com.example.common.Month;
 
 import java.util.ArrayList;
@@ -35,7 +36,6 @@ public class Main {
         } else {
             for (String monthName : monthList){
                 System.out.println(monthName);
-//                System.out.println(chosenMonth);
             }
         }
     }
